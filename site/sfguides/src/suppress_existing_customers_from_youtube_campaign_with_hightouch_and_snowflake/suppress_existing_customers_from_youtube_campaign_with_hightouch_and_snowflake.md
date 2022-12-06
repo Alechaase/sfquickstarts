@@ -12,7 +12,7 @@ tags: Getting Started, AdTech
 ## Overview 
 Duration: 1
 
-Hightouch helps marketers activate their data, sitting in Snowflake, in over 100 different destinations.  It provides the "last mile" of the [Modern Data Stack](https://hightouch.com/blog/reverse-etl-bringing-the-modern-data-stack-full-circle).
+Hightouch helps marketers activate their data, sitting in Snowflake, to over 100 different destinations.  It provides the "last mile" of the [Modern Data Stack](https://hightouch.com/blog/reverse-etl-bringing-the-modern-data-stack-full-circle).
 
 ![Snowflake and Hightouch stack](assets/Snowflake_Template_The_Modern_Data_Stack_e80de39d33.jpg)
 
